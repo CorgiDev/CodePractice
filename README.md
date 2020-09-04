@@ -1,0 +1,2 @@
+# CodePractice
+Various programming challenges.
