@@ -1,0 +1,13 @@
+C:\Users\evilt\source\repos\CodePractice\CodePractice\bin\Debug\netcoreapp3.1\RemoveDuplicates.exe
+C:\Users\evilt\source\repos\CodePractice\CodePractice\bin\Debug\netcoreapp3.1\RemoveDuplicates.deps.json
+C:\Users\evilt\source\repos\CodePractice\CodePractice\bin\Debug\netcoreapp3.1\RemoveDuplicates.runtimeconfig.json
+C:\Users\evilt\source\repos\CodePractice\CodePractice\bin\Debug\netcoreapp3.1\RemoveDuplicates.runtimeconfig.dev.json
+C:\Users\evilt\source\repos\CodePractice\CodePractice\bin\Debug\netcoreapp3.1\RemoveDuplicates.dll
+C:\Users\evilt\source\repos\CodePractice\CodePractice\bin\Debug\netcoreapp3.1\RemoveDuplicates.pdb
+C:\Users\evilt\source\repos\CodePractice\CodePractice\obj\Debug\netcoreapp3.1\RemoveDuplicates.csprojAssemblyReference.cache
+C:\Users\evilt\source\repos\CodePractice\CodePractice\obj\Debug\netcoreapp3.1\RemoveDuplicates.AssemblyInfoInputs.cache
+C:\Users\evilt\source\repos\CodePractice\CodePractice\obj\Debug\netcoreapp3.1\RemoveDuplicates.AssemblyInfo.cs
+C:\Users\evilt\source\repos\CodePractice\CodePractice\obj\Debug\netcoreapp3.1\RemoveDuplicates.csproj.CoreCompileInputs.cache
+C:\Users\evilt\source\repos\CodePractice\CodePractice\obj\Debug\netcoreapp3.1\RemoveDuplicates.dll
+C:\Users\evilt\source\repos\CodePractice\CodePractice\obj\Debug\netcoreapp3.1\RemoveDuplicates.pdb
+C:\Users\evilt\source\repos\CodePractice\CodePractice\obj\Debug\netcoreapp3.1\RemoveDuplicates.genruntimeconfig.cache
